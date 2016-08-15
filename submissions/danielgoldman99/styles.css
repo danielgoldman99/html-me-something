@@ -1,0 +1,52 @@
+/*   styles.css  */
+
+* {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+em {
+    font-size: 25px;
+}
+
+footer {
+    font-weight: bold;
+}
+
+
+h1 {
+    font-family: Impact;
+    font-size: 50px;
+}
+main {
+    font-family: sans-serif;
+    color: white;
+    font-size: 18px;
+    background-color:red;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+}
+article1 img {
+    float: left;
+    padding-right: 30px;
+}
+article2 img {
+    float: left;
+    padding-right: 30px;
+}
+article3 img {
+    float: left;
+    padding-right: 80px;
+}
+article4 img {
+    float: left;
+    padding-right: 80px;
+}
+h3 {
+    color:red;
+    font-family: Impact, Arial;
+    font-size: 22px;
+}
